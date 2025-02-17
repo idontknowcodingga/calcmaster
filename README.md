@@ -1,2 +1,0 @@
-# calcmaster
-Multi-Calculator System
